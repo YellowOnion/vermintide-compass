@@ -1,0 +1,8 @@
+{
+	"mod_name": "Compass",
+	"version": "1.0.1",
+	"author": "Woob",
+	"patch": [
+		"patch/patch"
+	]
+}
