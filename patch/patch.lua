@@ -89,6 +89,8 @@ mod.rot_to_cardinal = function(d)
     return "NE"
   elseif d <= a*5 then
     return "E"
+  elseif d <= a*7 then
+    return "SE"
   elseif d <= a*9 then
     return "S"
   elseif d <= a*11 then
